@@ -1,0 +1,6 @@
+aws all services name
+ec2
+vpc
+ebs
+s3
+iam
